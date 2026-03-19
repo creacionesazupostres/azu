@@ -2,6 +2,7 @@
 "name": "Creaciones Azu",
 "short_name": "Azu",
 "start_url": "/",
+"scope": "/",
 "display": "standalone",
 "background_color": "#ffffff",
 "theme_color": "#ffffff",
@@ -9,12 +10,14 @@
 {
 "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjig76t0OsbiKDsWNzKY7EI-Zgjwz0NbSPZwUfv7TubAX7qK912zjI83-s2iJjrqJjR1qegoZBHYiD4BcjZEmbjKhfbr71ST8q2JFwPJZnaRu5mKMEHwbzmO05S5F0RW-oOz90ajwu3VAFQz1JAKEeqcEzjbDIvwwIsm_760XykXb7K85J-TW2raLg4FCo/s1600/web-app-manifest-192x192.png",
 "sizes": "192x192",
-"type": "image/png"
+"type": "image/png",
+"purpose": "any maskable"
 },
 {
 "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetfAVSYNepR_HDvPYSy1rU5wYni_u9oyOY2bPLmTDKshg2uqcr0Vwjvnt1sz-vfaDXY_KMV6Q20N58LXlDvxC7_KqOx1F1BjRk9s1d76PQm4bxlh5cFmPsPGPwOKBYb6cgDdyIIrCxelOkkN4qs8D8QNfO7kvpAE0m2c18qfxFg7ZI3JWJgmgfDeqNrw/s1600/web-app-manifest-512x512.png",
 "sizes": "512x512",
-"type": "image/png"
+"type": "image/png",
+"purpose": "any maskable"
 }
 ]
 }
